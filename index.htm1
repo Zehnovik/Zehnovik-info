@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zehnovik</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Zehnovik</h1>
+            <p>Personal Development & Mental Growth</p>
+            <a href="mailto:zehnovik@gmail.com" class="cta-btn">تماس با ما</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>درباره ما</h2>
+            <p>Zehnovik یک کسب‌وکار در زمینه توسعه فردی و رشد ذهنی است که به افراد ابزارهایی برای پیشرفت و موفقیت در زندگی شخصی و حرفه‌ای می‌دهد.</p>
+        </div>
+    </section>
+
+    <section id="content">
+        <div class="container">
+            <h2>محتوا</h2>
+            <ul>
+                <li><strong>Reels:</strong> فیلم‌های کوتاه از سخنرانی‌ها و مصاحبه‌های افراد موفق.</li>
+                <li><strong>Stories:</strong> نکات و توصیه‌های آموزشی روانشناسی.</li>
+                <li><strong>Posts:</strong> مقالات و محتوای آموزشی در زمینه رشد فردی.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>تماس با ما</h2>
+            <p>برای ارتباط با ما از طریق ایمیل یا شبکه‌های اجتماعی، لطفاً از روش‌های زیر استفاده کنید:</p>
+            <ul>
+                <li>ایمیل: <a href="mailto:zehnovik@gmail.com">zehnovik@gmail.com</a></li>
+                <li>اینستاگرام: <a href="https://www.instagram.com/zehnovik" target="_blank">@zehnovik</a></li>
+                <li>تلگرام: <a href="https://t.me/zehnovik" target="_blank">@zehnovik</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>تمامی حقوق محفوظ است. Zehnovik 2024</p>
+        </div>
+    </footer>
+</body>
+</html>
